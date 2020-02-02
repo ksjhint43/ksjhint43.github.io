@@ -44,7 +44,7 @@ Multi-view algorithm과 Ensemble 모형의 차이를 정리하면 다음과 같�
 	<a href="https://github.com/ksjhint43/ksjhint43.github.io/blob/master/image/2018-12-23-Co-training/001.jpg"><img src="https://github.com/ksjhint43/ksjhint43.github.io/blob/master/image/2018-12-23-Co-training/001.jpg"></a>
 </figure>
 
-![eclipse](https://github.com/ksjhint43/ksjhint43.github.io/blob/master/image/2018-12-23-Co-training/001.jpg "eclipse")
+![eclipse](https://github.com/ksjhint43/ksjhint43.github.io/blob/master/image/2018-12-23-Co-training/001.jpg?raw=true "eclipse")
 
 (사진 출처 : 고려대학교 산업경영공학과 강필성 교수님 Business Analytics 강의자료 53쪽)
 
