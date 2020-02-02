@@ -1,6 +1,6 @@
 # Site
 title:              Saejong's blog
-bio:                'Minimal, one column jekyll theme.'
+bio:                'Machine learning, Data pre-processing, Data Visualization'
 description:        "Moon is a minimal, one column jekyll theme for your blog."
 reading_time:       true
 words_per_minute:   200
@@ -39,23 +39,23 @@ disqus_shortname:   taylantatli
   #ad-client:
   #ad-slot:
 #bing-verify:
-#email:
-twitter:            username
-facebook:           username
-github-url:         username
+email:              xza369@naver.com
+#twitter:            username
+#facebook:           username
+github-url:         ksjhint43
 #stackoverflow:     123456/username   from a "http://stackoverflow.com/users/123456/username" link
-#linkedin:          username
+linkedin:          username
 #xing:              username
-instagram:          username
+#instagram:          username
 #lastfm:            username
 #tumblr:            username
 #medium:            '@username'
 #pinterest:         username
 #foursquare:        username
-steam:              username
+#steam:              username
 #dribbble:          username
 #youtube:           username
-#youtube-channel:   channel
+youtube-channel:   UCCL3lAdWpdExamyDFY5x4bw
 #soundcloud:        username
 #weibo:             username
 #flickr:            username
