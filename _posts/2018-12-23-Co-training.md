@@ -1,3 +1,11 @@
+---
+layout: post
+title: "Co-training"
+date: 2018-12-23
+excerpt: "Co-training"
+tags: [Co-training, Business Analytics, Machine Learning, Multi-view Algorithm]
+comments: true
+---
 
 Business Analytics
 ============================
