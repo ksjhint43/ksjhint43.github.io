@@ -40,10 +40,6 @@ Multi-view algorithm과 Ensemble 모형의 차이를 정리하면 다음과 같�
 
 여러분이 일식을 뜻하는 eclipse와 자동차 종류 중 하나인 eclipse를 구분하기 위한 모형을 만들기 위해 여러가지 자료를 모았다고 가정해 봅시다. 
 
-<figure>
-	<a href="https://github.com/ksjhint43/ksjhint43.github.io/blob/master/image/2018-12-23-Co-training/001.jpg"><img src="https://github.com/ksjhint43/ksjhint43.github.io/blob/master/image/2018-12-23-Co-training/001.jpg"></a>
-</figure>
-
 ![eclipse](https://github.com/ksjhint43/ksjhint43.github.io/blob/master/image/2018-12-23-Co-training/001.jpg?raw=true "eclipse")
 
 (사진 출처 : 고려대학교 산업경영공학과 강필성 교수님 Business Analytics 강의자료 53쪽)
@@ -62,7 +58,7 @@ Multi-view algorithm과 Ensemble 모형의 차이를 정리하면 다음과 같�
 
 ## 1) Feature split 
 
-![Feature split](004.PNG "Feature split")
+![Feature split](https://github.com/ksjhint43/ksjhint43.github.io/blob/master/image/2018-12-23-Co-training/004.jpg?raw=true "Feature split")
 
 먼저 train data를 label된 데이터 L 와 unlabel된 data U로 나눕니다.
 
@@ -79,7 +75,7 @@ Multi-view algorithm과 Ensemble 모형의 차이를 정리하면 다음과 같�
 
 ## 2) procedure 1
 
-![procedure1](007.PNG "procedure1")
+![procedure1](https://github.com/ksjhint43/ksjhint43.github.io/blob/master/image/2018-12-23-Co-training/007.jpg?raw=true "procedure1")
 
 
 1. Unlabel data 중에서 학습된 모형에 labeling을 할 후보 U'를 unlabel된 data를 smapling하여 추출한다
@@ -93,7 +89,7 @@ Multi-view algorithm과 Ensemble 모형의 차이를 정리하면 다음과 같�
 
 
 ## 2) procedure 2
-![procedure2](013.PNG "procedure2")
+![procedure2](https://github.com/ksjhint43/ksjhint43.github.io/blob/master/image/2018-12-23-Co-training/013.jpg?raw=true "procedure2")
 
 5. 각각의 모형에서 선택된 n개와 p개의 데이터를 labeling하고 L에 업데이트를 한다. 따라서 2n+2p(중복된 데이터가 없을 경우)개의 데이터가 새로 labeling된 L 데이터에 추가가 된다. (중복된 데이터가 있으면 중복이 되지 않게 만든다)
 
@@ -103,7 +99,7 @@ Multi-view algorithm과 Ensemble 모형의 차이를 정리하면 다음과 같�
 
 ## 3) Prediction
 
-![Prediction](014.PNG "Prediction")
+![Prediction](https://github.com/ksjhint43/ksjhint43.github.io/blob/master/image/2018-12-23-Co-training/014.jpg?raw=true "Prediction")
 
 
 Test data의 설명변수를 각각 모형에 맞게 split한 다음 예측을 한다.
