@@ -1,37 +1,20 @@
 ---
 layout: page
-title: About the Theme
+title: Jin Sae-Jong
 tags: [about, Jekyll, theme, moon]
-date: 2016-03-21
+date: 2020-02-02
 comments: false
 ---
-    
-<center><a href="http://taylantatli.github.io/Moon"><b>Moon</b></a> is a minimal, one column jekyll theme.</center>
 
-## Features
-* Minimal, you can focus on your content
-* Responsive
-* Disqus integration
-* Syntax highlighting
-* Optional post image
-* Social icons
-* Page for sharing projects
-* Optional background image
-* Simple navigation menu
-* MathJax support
+## PERSONAL DETAILS
+Birth : June 24, 1993
+Address :  Yongin-si, Gyeonggi-do, Republic of Korea
+Mail : xza369@naver.com, ksjhint43@gmail.com
 
-## Preview
+## EDUCATION
+High School : 2009.03 - 2012.02 Pungduck High School, Youngin, Korea
+B.S in Statistics : 2012.03 - 2018.02 Hankuk University of Foreign Studies, Youngin, Korea
+M.S in Statistics 2018.03 - 2020.02 Korea University, Seoul, Korea
 
-{% capture images %}
-    https://cloud.githubusercontent.com/assets/754514/14509720/61c61058-01d6-11e6-93ab-0918515ecd56.png
-    https://cloud.githubusercontent.com/assets/754514/14509716/61ac6c8e-01d6-11e6-879f-8308883de790.png
-{% endcapture %}
-{% include gallery images=images caption="Screenshots of Moon Theme" cols=2 %}
-
-See a [live version of Moon](http://taylantatli.github.io/Moon) hosted on GitHub.
-
-## Getting Started
-
-To learn how to install and use this theme check out the [Setup Guide](http://taylantatli.me/Moon/moon-theme/) for more information.
-      
-[Install Moon](https://github.com/TaylanTatli/Moon){: .btn}
+## SKILLS
+R, Python, SAS
