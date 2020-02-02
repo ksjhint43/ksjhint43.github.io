@@ -22,6 +22,6 @@ B.S in Statistics(2012.03 - 2018.02) : Hankuk University of Foreign Studies, You
 
 M.S in Statistics(2018.03 - 2020.02) : Korea University, Seoul, Korea
 
-## SKILLS
+## SOFTWARE
 
 R, Python, SAS
