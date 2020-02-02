@@ -40,9 +40,11 @@ Multi-view algorithm과 Ensemble 모형의 차이를 정리하면 다음과 같�
 
 여러분이 일식을 뜻하는 eclipse와 자동차 종류 중 하나인 eclipse를 구분하기 위한 모형을 만들기 위해 여러가지 자료를 모았다고 가정해 봅시다. 
 
-![eclipse1](001.PNG "eclipse")
-![eclipse2](image/2018-12-23-Co-training/001.PNG)
-![eclipse3](https://github.com/ksjhint43/ksjhint43.github.io/blob/master/image/2018-12-23-Co-training/001.PNG)
+<figure>
+	<a href="https://github.com/ksjhint43/ksjhint43.github.io/blob/master/image/2018-12-23-Co-training/001.PNG"><img src="https://github.com/ksjhint43/ksjhint43.github.io/blob/master/image/2018-12-23-Co-training/001.PNG"></a>
+	<figcaption>eclipse</a>.</figcaption>
+</figure>
+![eclipse1](https://github.com/ksjhint43/ksjhint43.github.io/blob/master/image/2018-12-23-Co-training/001.PNG)
 (사진 출처 : 고려대학교 산업경영공학과 강필성 교수님 Business Analytics 강의자료 53쪽)
 
 그런데 자료를 모으는데 하나는 이미지 data고 하나는 텍스트 data입니다. 
