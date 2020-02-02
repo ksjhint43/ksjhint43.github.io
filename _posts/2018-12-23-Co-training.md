@@ -39,9 +39,7 @@ Multi-view algorithm과 Ensemble 모형의 차이를 정리하면 다음과 같�
 ## Multi-view Algorithm (Co-training)
 
 여러분이 일식을 뜻하는 eclipse와 자동차 종류 중 하나인 eclipse를 구분하기 위한 모형을 만들기 위해 여러가지 자료를 모았다고 가정해 봅시다. 
-<figure>
-	<a href="https://github.com/ksjhint43/ksjhint43.github.io/blob/master/image/2018-12-23-Co-training/001.PNG"><img src="https://github.com/ksjhint43/ksjhint43.github.io/blob/master/image/2018-12-23-Co-training/001.PNG"></a>
-</figure>
+![eclipse](001.PNG "eclipse")
 
 (사진 출처 : 고려대학교 산업경영공학과 강필성 교수님 Business Analytics 강의자료 53쪽)
 
