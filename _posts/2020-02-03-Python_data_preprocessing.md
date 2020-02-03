@@ -5,7 +5,7 @@ date : 2020-02-03
 excerpt: "Python을 이용한 데이터 전처리"
 project : true
 tags: [Data Pre-Processing, Python]
-comments: false
+comments: true
 ---
 
 # 목록
