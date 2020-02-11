@@ -18,6 +18,6 @@ comments: true
 
 [04. 데이터 탐색 및 집약](https://ksjhint43.github.io/(DP_04)%EB%8D%B0%EC%9D%B4%ED%84%B0-%ED%83%90%EC%83%89-%EB%B0%8F-%EC%A7%91%EC%95%BD ,  "04. 데이터 탐색 및 집약")
 
-[05. 데이터 정렬 및 결합](https://ksjhint43.github.io/(DP_05)%EB%8D%B0%EC%9D%B4%ED%84%B0-%EC%A0%95%EB%A0%AC-%EB%B0%8F-%EA%B2%B0%ED%95%A9/ ,  "05. 데이터 정렬 및 결합")
+[05. 데이터 정렬 및 결합](https://ksjhint43.github.io/(DP_05)%EB%8D%B0%EC%9D%B4%ED%84%B0-%EC%A0%95%EB%A0%AC-%EB%B0%8F-%EA%B2%B0%ED%95%A9 ,  "05. 데이터 정렬 및 결합")
 
-[06. 데이터 재구조화](https://ksjhint43.github.io/(DP06)%EB%8D%B0%EC%9D%B4%ED%84%B0-%EC%9E%AC%EA%B5%AC%EC%A1%B0%ED%99%94/ ,  "06. 데이터 재구조화")
+[06. 데이터 재구조화](https://ksjhint43.github.io/(DP06)%EB%8D%B0%EC%9D%B4%ED%84%B0-%EC%9E%AC%EA%B5%AC%EC%A1%B0%ED%99%94 ,  "06. 데이터 재구조화")
