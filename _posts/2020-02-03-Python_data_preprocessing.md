@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Python을 이용한 데이터 전처리"
-date : 2020-02-03
+date : 2020-09-19
 excerpt: "Python을 이용한 데이터 전처리"
 project : true
 tags: [Data Pre-Processing, Python]
