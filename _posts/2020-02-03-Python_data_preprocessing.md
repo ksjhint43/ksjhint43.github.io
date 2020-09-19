@@ -12,7 +12,7 @@ comments: true
 
 [01. 데이터 불러오기 및 내보내기](https://ksjhint43.github.io/(DP_01)데이터_불러오기_및-내보내기/)
 
-[01-2. 데이터 불러오기 및 내보내기(추가 내용)]()
+[01-2. 데이터 불러오기 및 내보내기(추가 내용)](https://ksjhint43.github.io/(DP_012)%EB%8D%B0%EC%9D%B4%ED%84%B0-%EB%B6%88%EB%9F%AC%EC%98%A4%EA%B8%B0(%EC%B6%94%EA%B0%80-%EB%82%B4%EC%9A%A9)/)
 
 [02. 데이터에서 특정 변수 추출 및 변수명 변경하기](https://ksjhint43.github.io/(DP_02)%EB%8D%B0%EC%9D%B4%ED%84%B0%EC%97%90%EC%84%9C-%ED%8A%B9%EC%A0%95-%EB%B3%80%EC%88%98-%EC%B6%94%EC%B6%9C-%EB%B0%8F-%EB%B3%80%EC%88%98%EB%AA%85-%EB%B3%80%EA%B2%BD%ED%95%98%EA%B8%B0/)
 
