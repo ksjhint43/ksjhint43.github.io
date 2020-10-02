@@ -27,3 +27,5 @@ comments: true
 [07. 데이터 값의 형태 변환](https://ksjhint43.github.io/(DP07)%EB%8D%B0%EC%9D%B4%ED%84%B0-%EA%B0%92%EC%9D%98-%ED%98%95%ED%83%9C-%EB%B3%80%ED%99%98/)
 
 [08. 범주형 데이터 전처리](https://ksjhint43.github.io/(DP08)%EB%B2%94%EC%A3%BC%ED%98%95-%EB%8D%B0%EC%9D%B4%ED%84%B0-%EC%A0%84%EC%B2%98%EB%A6%AC/)
+
+[09. 결측자료 처리](https://ksjhint43.github.io/(DP09)%EA%B2%B0%EC%B8%A1%EC%9E%90%EB%A3%8C-%EC%B2%98%EB%A6%AC/)
