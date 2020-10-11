@@ -29,3 +29,5 @@ comments: true
 [08. 범주형 데이터 전처리](https://ksjhint43.github.io/(DP08)%EB%B2%94%EC%A3%BC%ED%98%95-%EB%8D%B0%EC%9D%B4%ED%84%B0-%EC%A0%84%EC%B2%98%EB%A6%AC/)
 
 [09. 결측자료 처리](https://ksjhint43.github.io/(DP09)%EA%B2%B0%EC%B8%A1%EC%9E%90%EB%A3%8C-%EC%B2%98%EB%A6%AC/)
+
+[10. 날짜형 데이터 다루기](https://ksjhint43.github.io/(DP_10)%EB%82%A0%EC%A7%9C%ED%98%95-%EB%8D%B0%EC%9D%B4%ED%84%B0-%EB%8B%A4%EB%A3%A8%EA%B8%B0/)
